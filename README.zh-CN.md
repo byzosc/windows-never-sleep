@@ -13,7 +13,7 @@
 
 ## 🚀 下载
 
-从 [GitHub Releases](https://github.com/zerbLion/windows-never-sleep/releases/latest) 下载最新版 ZIP，解压后双击 `Install.exe`。
+从 [GitHub Releases](https://github.com/byzosc/windows-never-sleep/releases/latest) 下载最新版 ZIP，解压后双击 `Install.exe`。
 
 需要卸载时，双击 `Uninstall.exe`；也可以在 Windows 设置 → 应用 → 已安装的应用中卸载 **Windows Never Sleep**。
 

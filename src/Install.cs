@@ -12,8 +12,8 @@ using Microsoft.Win32;
 [assembly: AssemblyTitle("Windows Never Sleep Installer")]
 [assembly: AssemblyDescription("Installs Windows Never Sleep for the current user.")]
 [assembly: AssemblyProduct("Windows Never Sleep")]
-[assembly: AssemblyCompany("zerbLion")]
-[assembly: AssemblyCopyright("Copyright (c) 2026 zerbLion")]
+[assembly: AssemblyCompany("zosc")]
+[assembly: AssemblyCopyright("Copyright (c) 2026 zosc")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 
@@ -247,11 +247,11 @@ namespace WindowsNeverSleepInstaller
             {
                 uninstall.SetValue("DisplayName", AppName);
                 uninstall.SetValue("DisplayVersion", "1.0.0");
-                uninstall.SetValue("Publisher", "zerbLion");
+                uninstall.SetValue("Publisher", "zosc");
                 uninstall.SetValue("InstallLocation", InstallDirectory);
                 uninstall.SetValue("DisplayIcon", MainExecutablePath);
                 uninstall.SetValue("UninstallString", "\"" + UninstallExecutablePath + "\"");
-                uninstall.SetValue("URLInfoAbout", "https://github.com/zerbLion/windows-never-sleep");
+                uninstall.SetValue("URLInfoAbout", "https://github.com/byzosc/windows-never-sleep");
                 uninstall.SetValue("NoModify", 1, RegistryValueKind.DWord);
                 uninstall.SetValue("NoRepair", 1, RegistryValueKind.DWord);
             }
