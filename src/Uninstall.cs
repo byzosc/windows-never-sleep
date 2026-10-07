@@ -11,8 +11,8 @@ using Microsoft.Win32;
 [assembly: AssemblyTitle("Windows Never Sleep Uninstaller")]
 [assembly: AssemblyDescription("Uninstalls Windows Never Sleep and restores previous sleep settings.")]
 [assembly: AssemblyProduct("Windows Never Sleep")]
-[assembly: AssemblyCompany("zerbLion")]
-[assembly: AssemblyCopyright("Copyright (c) 2026 zerbLion")]
+[assembly: AssemblyCompany("zosc")]
+[assembly: AssemblyCopyright("Copyright (c) 2026 zosc")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 

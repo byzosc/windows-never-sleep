@@ -13,7 +13,7 @@ A tiny open-source Windows utility with two simple buttons:
 
 ## 🚀 Download
 
-Download the latest ZIP from [GitHub Releases](https://github.com/zerbLion/windows-never-sleep/releases/latest), extract it, and double-click `Install.exe`.
+Download the latest ZIP from [GitHub Releases](https://github.com/byzosc/windows-never-sleep/releases/latest), extract it, and double-click `Install.exe`.
 
 To remove it, double-click `Uninstall.exe` or uninstall **Windows Never Sleep** from Windows Settings → Apps → Installed apps.
 
